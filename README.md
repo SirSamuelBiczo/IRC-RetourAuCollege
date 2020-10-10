@@ -1,0 +1,2 @@
+# IRC-RetourAuCollege
+Premier challenge de programmation de Root-Me, ce challenge permet de se familiariser avec le protocole IRC, en communiquant avec un BOT. Le but du challenge et donc de communiquer avec un BOT qui nous donne une chaine de caractère contenant deux nombre et nous devons calculer la racine carré du premier nombre et multiplier le résultat par le deuxième nombre et arrondir le résultat a deux chiffres après la virgule.
